@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/philip727/gcc-scraper/notifier"
-	"github.com/philip727/gcc-scraper/types"
-	"github.com/philip727/gcc-scraper/ui"
+	"github.com/philip727/gcc-notifier/notifier"
+	"github.com/philip727/gcc-notifier/types"
+	"github.com/philip727/gcc-notifier/ui"
 )
 
 func main() {

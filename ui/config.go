@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/philip727/gcc-scraper/gcc"
-	"github.com/philip727/gcc-scraper/types"
+	"github.com/philip727/gcc-notifier/gcc"
+	"github.com/philip727/gcc-notifier/types"
 )
 
 func ConfigUI(s *types.Settings) {

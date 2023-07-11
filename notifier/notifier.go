@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/philip727/gcc-scraper/gcc"
-	"github.com/philip727/gcc-scraper/types"
+	"github.com/philip727/gcc-notifier/gcc"
+	"github.com/philip727/gcc-notifier/types"
 )
 
 func ConstantlyCheckStore(s *types.Settings, c *types.Cache) {

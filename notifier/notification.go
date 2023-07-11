@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gen2brain/beeep"
-	"github.com/philip727/gcc-scraper/types"
+	"github.com/philip727/gcc-notifier/types"
 )
 
 // Creates a notification about it being in stock

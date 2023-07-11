@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/philip727/gcc-scraper/types"
+	"github.com/philip727/gcc-notifier/types"
 )
 
 // Makes a request to the products

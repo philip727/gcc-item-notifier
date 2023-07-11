@@ -1,4 +1,4 @@
-module github.com/philip727/gcc-scraper
+module github.com/philip727/gcc-notifier
 
 go 1.20
 
